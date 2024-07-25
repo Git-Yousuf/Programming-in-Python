@@ -4,7 +4,7 @@ According to Wikipedia - A problem is a situation preventing something from bein
 """
 
 """
-Different approach to solve a problem: 
+Different approach to solve a problem (or) Process of solving problems: 
 Solutions can be categorized into 2 types.
 
 1. Algorithmic Approach:
