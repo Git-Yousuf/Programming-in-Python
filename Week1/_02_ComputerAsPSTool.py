@@ -3,7 +3,7 @@ How to solve a problem with the computer?
 1. Proper understanding and description of the problem.
 2. Convert problem to solution
     - Knowledge of the problem
-    -Select best strategy to solve
+    - Select best strategy to solve
 """
 
 """
