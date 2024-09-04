@@ -12,9 +12,29 @@ Some of the most popular IDEs are:
 """
 
 """
-Python is a general purpose programming language which can be performed for variety of task such as web develpoment, software develpoment, scripting, data analysis, artificial intelligence, machine learning etc...  
+Python is a general purpose programming language which can be 
+performed for variety of task such as web develpoment, software develpoment, 
+scripting, data analysis, artificial intelligence, machine learning etc...  
 """
+
+number1=int(input("Enter the Number 1 :"))
+number2=int(input("Enter the Number 2 :"))
+
+print(type(number1))
+print(type(number2))
+
+sum = number1 + number2
+
+print("The Sum is ",sum)
 
 """
 Syntax is nothing but a grammer to user language.
 """
+
+"""
+3 Important things in programming:
+1. Input
+2. Process
+3. Output
+"""
+
